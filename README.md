@@ -14,54 +14,10 @@
 <br>
 <br>
 
-<details><summary>🚀 Open Source Contributions:</summary>
-  <br>
-  <table width="100%" align="center">
-    <tr>
-    </tr>
-    <tr>
-      <td>GirlScript Summer of Code (GSSoC'24) </td>
-      <td>
-        <ul>
-          <li>Role: <strong>Open Source Contributor</strong></li>
-          <li>Contributed to multiple open-source projects.</li>
-          <li>Fixed UI/UX issues, added FAQs, and enhanced features.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>Vinyasa Summer of Code (VSoC) 24</td>
-      <td>
-        <ul>
-          <li>Role: <strong>Project Admin</strong></li>
-          <li>Managed GitHub repositories, assigned issues, guided contributors, and resolved code conflicts.</li>
-          <li>Successfully handled project administration and contributed to the project's growth and development.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details><summary>🏆 Notable Projects:</summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-    </tr>
-    <tr>
-      <td><a href="https://visual-sort-pink.vercel.app/">Visual Sort</a></td>
-      <td>Visual Sort is a web-based sorting algorithm visualization tool built using HTML, CSS, Bootstrap, SCSS, and JavaScript. This project provides an interactive way to visualize various sorting algorithms in action, helping users understand how different algorithms work and their efficiency in sorting data.</td>
-    </tr>
-  </table>
-</details>
-
-<br>
-
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mastansayyad&theme=radical" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spectr2155e&theme=radical" alt="Profile Summary">
 </td>
 </tr>
 </table>
@@ -69,10 +25,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=mastansayyad&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Spectr2155e&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=mastansayyad&theme=radical" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Spectr2155e&theme=radical" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
