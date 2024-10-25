@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Spectr2155e&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Spectr2155e</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Spectr2155e</a></h1>
 
 - 💬 Ask Me About: JAVA, SQL, Web Development. <br>
 - 📫 Reach Me At: [spectr2155e@gmail.com](mailto:spectr2155e@gmail.com) <br>
